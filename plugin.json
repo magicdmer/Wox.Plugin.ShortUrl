@@ -1,0 +1,12 @@
+{
+  "ID":"B04965E6A9BB591F8F8A1ADCB2C8DC39",
+  "ActionKeyword":"gs",
+  "Name":"新浪短链",
+  "Description":"获取短链接",
+  "Author":"magicdmer",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://github.com/magicdmer/Wox.Plugin.ShortUrl",
+  "IcoPath": "img\\app.png",
+  "ExecuteFileName":"Main.py"
+}
